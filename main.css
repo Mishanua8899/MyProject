@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-color: rgba(0, 0, 0, 0.627);
+    background-color: rgba(0, 0, 0, 1);
     background-image: url("0054.jpg");
     background-position: center center;
     background-size: cover;
